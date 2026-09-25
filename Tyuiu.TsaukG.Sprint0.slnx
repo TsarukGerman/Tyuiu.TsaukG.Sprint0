@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.TsarukG.Sprint0.Task0.V0/Tyuiu.TsarukG.Sprint0.Task0.V0.vcxproj" Id="f0557188-f02d-4cff-976d-dda8360faae0" />
+  </Folder>
+</Solution>
