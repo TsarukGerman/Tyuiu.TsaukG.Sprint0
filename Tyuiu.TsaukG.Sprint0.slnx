@@ -6,4 +6,7 @@
   <Folder Name="/Task0/">
     <Project Path="Tyuiu.TsarukG.Sprint0.Task0.V0/Tyuiu.TsarukG.Sprint0.Task0.V0.vcxproj" Id="f0557188-f02d-4cff-976d-dda8360faae0" />
   </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.TsaukG.Sprint0.Task1.V0/Tyuiu.TsaukG.Sprint0.Task1.V0.vcxproj" Id="13711f85-d7e4-4d0a-8607-ce7bd1e255d1" />
+  </Folder>
 </Solution>
